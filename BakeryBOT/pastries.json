@@ -1,0 +1,42 @@
+{
+     "202707943223721984": {
+          "pastry_number": 56,
+          "pastries_baked": 114,
+          "trash": 6,
+          "delicious": 49,
+          "gourmet": 1,
+          "balance": 1964
+     },
+     "216344608987152384": {
+          "pastry_number": 0,
+          "pastries_baked": 0,
+          "trash": 0,
+          "delicious": 0,
+          "gourmet": 0,
+          "balance": 10
+     },
+     "251608546473410561": {
+          "pastry_number": 1010,
+          "pastries_baked": 1010,
+          "trash": 1009,
+          "delicious": 1,
+          "gourmet": 0,
+          "balance": 50
+     },
+     "326602630459555840": {
+          "pastry_number": 8,
+          "pastries_baked": 8,
+          "trash": 8,
+          "delicious": 0,
+          "gourmet": 0,
+          "balance": 59
+     },
+     "387389500298362881": {
+          "pastry_number": 1,
+          "pastries_baked": 1,
+          "trash": 1,
+          "delicious": 0,
+          "gourmet": 0,
+          "balance": 10
+     }
+}
