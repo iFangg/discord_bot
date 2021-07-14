@@ -185,4 +185,4 @@ for filename in os.listdir("./Pcogs"):
     if filename.endswith(".py"):
         bot.load_extension(f"Pcogs.{filename[:-3]}") 
 
-bot.run("NzY0MjYxMzk5MjMyMTE4ODM0.X4Dr5A.7nwB0t8iQFLI822WgNrOFe_vG2g")
+bot.run("TOKEN")
