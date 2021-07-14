@@ -184,4 +184,4 @@ for filename in os.listdir("./cogs"):
     if filename.endswith(".py"):
         client.load_extension(f"cogs.{filename[:-3]}")
 
-client.run("Njk1Nzg2OTg1ODY4MjMwNjY2.XofQIA.ybw8m4e63QC41pF7v4bcnOjfoWY")
+client.run("TOKEN")
